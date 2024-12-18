@@ -1,0 +1,6 @@
+com/appium/pageObjects/android/FormPage.class
+com/appium/pageObjects/android/ProductcalaloguePage.class
+com/appium/pageObjects/android/CartPage.class
+com/appium/utils/AppiumUtils$1.class
+com/appium/utils/AndroidActions.class
+com/appium/utils/AppiumUtils.class
